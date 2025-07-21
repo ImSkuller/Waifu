@@ -1,0 +1,10 @@
+asyncio
+edge_tts
+playsound
+SpeechRecognition
+webbrowser
+Wikipedia
+pywhatkit
+pygetwindow
+pyautogui
+psutil
