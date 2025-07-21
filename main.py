@@ -33,7 +33,7 @@ listener = sr.Recognizer()
 responses = {
 
     "hey": ["hlo senpai"],
-    "hi": ["hlo hlo hlo senpai5"],
+    "hi": ["hlo hlo hlo senpai", "hey bitch wassup"],
     "no" :["oh sorry marster"],
     "thank you":["its my pleasure"],
     "how are you": ["I-I'm fine! Not that you care or anything!", "My circuits are fluttering~ like my heart!", "Energetic! Ready for anything, senpai!"],

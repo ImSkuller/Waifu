@@ -8,3 +8,4 @@ pywhatkit
 pygetwindow
 pyautogui
 psutil
+pyaudio
